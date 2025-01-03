@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/I8JSUWI.jpeg" alt="banner">
+<img src="https://store-images.s-microsoft.com/image/apps.13171.9007199266726596.93d63a21-1e7a-4d3a-8c34-32a1018c1cd9.36e157b5-12fe-4810-8ebf-54fb360f4698" alt="banner">
 <h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝐁𝐀𝐘𝐉𝐈𝐃 -𝗕𝗢𝗧 - 𝐌𝐎𝐇𝐀𝐌𝐌𝐀𝐃 𝐁𝐀𝐘𝐉𝐈𝐃  𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 <!-- Github README -->
 
